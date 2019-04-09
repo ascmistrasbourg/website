@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ascmistrasbourg.github.io/actu/site-web/</loc>
+    <lastmod>2019-04-09T20:51:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ascmistrasbourg.github.io/events/diner/</loc>
+    <lastmod>2019-03-04T22:49:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ascmistrasbourg.github.io/events/afterwork1/</loc>
+    <lastmod>2019-03-04T22:49:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ascmistrasbourg.github.io/documents/pv1/</loc>
+    <lastmod>2019-02-28T17:08:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ascmistrasbourg.github.io/subheader/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ascmistrasbourg.github.io/</loc>
+    <lastmod>2019-04-09T20:51:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ascmistrasbourg.github.io/actu/</loc>
+    <lastmod>2019-04-09T20:51:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ascmistrasbourg.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ascmistrasbourg.github.io/cmi/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ascmistrasbourg.github.io/service/documents/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ascmistrasbourg.github.io/cmi/ens/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ascmistrasbourg.github.io/service/events/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ascmistrasbourg.github.io/documents/</loc>
+    <lastmod>2019-02-28T17:08:04+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ascmistrasbourg.github.io/events/</loc>
+    <lastmod>2019-03-04T22:49:17+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ascmistrasbourg.github.io/service/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ascmistrasbourg.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ascmistrasbourg.github.io/service/discord/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ascmistrasbourg.github.io/cmi/formation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ascmistrasbourg.github.io/cmi/etranger/</loc>
+  </url>
+  
+</urlset>
