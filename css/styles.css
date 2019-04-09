@@ -714,6 +714,11 @@ footer a:hover, footer a:focus {
 
 /* Bulma Tweaks */
 
+ul {
+  list-style: circle;
+  padding-left: 1em;
+}
+
 .box.spaced {
   margin: 0.75em;
 }
