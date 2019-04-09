@@ -2,113 +2,113 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ASCMI</title>
-    <link>https://ascmistrasbourg.github.io/</link>
+    <link>https://ascmistrasbourg.github.io/website/</link>
     <description>Recent content on ASCMI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Tue, 09 Apr 2019 20:51:08 +0000</lastBuildDate>
     
-	<atom:link href="https://ascmistrasbourg.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ascmistrasbourg.github.io/website/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Site Web</title>
-      <link>https://ascmistrasbourg.github.io/actu/site-web/</link>
+      <link>https://ascmistrasbourg.github.io/website/actu/site-web/</link>
       <pubDate>Tue, 09 Apr 2019 20:51:08 +0000</pubDate>
       
-      <guid>https://ascmistrasbourg.github.io/actu/site-web/</guid>
+      <guid>https://ascmistrasbourg.github.io/website/actu/site-web/</guid>
       <description>Il est enfin là ! C&amp;rsquo;est pas trop tôt !</description>
     </item>
     
     <item>
       <title>Diner</title>
-      <link>https://ascmistrasbourg.github.io/events/diner/</link>
+      <link>https://ascmistrasbourg.github.io/website/events/diner/</link>
       <pubDate>Mon, 04 Mar 2019 22:49:17 +0100</pubDate>
       
-      <guid>https://ascmistrasbourg.github.io/events/diner/</guid>
+      <guid>https://ascmistrasbourg.github.io/website/events/diner/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque quis lacinia sapien. Morbi ultrices faucibus libero, in eleifend purus cursus nec. Integer auctor ipsum sed sem dictum, quis hendrerit sapien euismod. Donec nec mattis libero. Donec ornare molestie risus sit amet pretium. Aliquam posuere ultricies elit pulvinar finibus. Suspendisse hendrerit gravida augue. Fusce sit amet auctor sapien. Phasellus feugiat tristique sem vitae semper. Ut vitae ipsum neque.
 Nulla facilisis diam at urna consequat blandit.</description>
     </item>
     
     <item>
       <title>Afterwork1</title>
-      <link>https://ascmistrasbourg.github.io/events/afterwork1/</link>
+      <link>https://ascmistrasbourg.github.io/website/events/afterwork1/</link>
       <pubDate>Mon, 04 Mar 2019 22:49:13 +0100</pubDate>
       
-      <guid>https://ascmistrasbourg.github.io/events/afterwork1/</guid>
+      <guid>https://ascmistrasbourg.github.io/website/events/afterwork1/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In non pretium tortor. Donec vel varius eros. Etiam et enim purus. Nam lobortis rhoncus justo id volutpat. Integer rutrum dignissim nisi eget elementum. Proin gravida pretium felis in tristique. Pellentesque tristique est vel orci vehicula, sit amet efficitur enim lobortis. Vivamus tempor, ligula nec ullamcorper pretium, felis odio hendrerit augue, et eleifend urna odio at nulla. Cras arcu diam, vehicula ac sodales sed, dapibus vitae nunc.</description>
     </item>
     
     <item>
       <title>Réunion de Comité du 28 Février 2018</title>
-      <link>https://ascmistrasbourg.github.io/documents/pv1/</link>
+      <link>https://ascmistrasbourg.github.io/website/documents/pv1/</link>
       <pubDate>Thu, 28 Feb 2019 17:08:04 +0100</pubDate>
       
-      <guid>https://ascmistrasbourg.github.io/documents/pv1/</guid>
+      <guid>https://ascmistrasbourg.github.io/website/documents/pv1/</guid>
       <description>Tour de table La réunion se commence par la présentation de toutes les personnes présentes. Elles précisent leur nom, leur année d&amp;rsquo;étude, leur cursus, ainsi que leur rôle dans l&amp;rsquo;association si elles en ont un.
 Nomination des chargés de mission Louis Lambrecht et Quentin Wendling sont nommés chargés de mission &amp;ldquo;Anciens&amp;rdquo; par le président, afin de commencer à préparer un réseau d&amp;rsquo;anciens, les premières promotions CMI diplômées arrivant cette année.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://ascmistrasbourg.github.io/subheader/</link>
+      <link>https://ascmistrasbourg.github.io/website/subheader/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ascmistrasbourg.github.io/subheader/</guid>
+      <guid>https://ascmistrasbourg.github.io/website/subheader/</guid>
       <description>Bienvenue sur le site de l&amp;rsquo;ASCMI !</description>
     </item>
     
     <item>
       <title>Des archives numériques</title>
-      <link>https://ascmistrasbourg.github.io/service/documents/</link>
+      <link>https://ascmistrasbourg.github.io/website/service/documents/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ascmistrasbourg.github.io/service/documents/</guid>
+      <guid>https://ascmistrasbourg.github.io/website/service/documents/</guid>
       <description>&lt;p&gt;Pour préparer au mieux les examens, l&amp;rsquo;ASCMI met à disposition gratuitement des archives d&amp;rsquo;anciens contrôles. le tout est disponible au format numérique pour les membres. Toutes les archives sont classées par année d&amp;rsquo;étude et sont évidemment incluses dedans des archives en rapport avec les UE spécifiques de chaque fillière.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Des enseignements spécifiques</title>
-      <link>https://ascmistrasbourg.github.io/cmi/ens/</link>
+      <link>https://ascmistrasbourg.github.io/website/cmi/ens/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ascmistrasbourg.github.io/cmi/ens/</guid>
+      <guid>https://ascmistrasbourg.github.io/website/cmi/ens/</guid>
       <description>En plus des UE classiques, le CMI comporte des UE d&amp;rsquo;ouverture socio-économique, des enseignements de spécialité en rapport avec le CMI suivi, ainsi que des stages obligatoires tout au long du cursus. Grâce à cela, l&amp;rsquo;étudiant sera au mieux préparé pour l&amp;rsquo;entrée dans le monde professionnel à l&amp;rsquo;issue de son cursus.</description>
     </item>
     
     <item>
       <title>Des évènements récurrents</title>
-      <link>https://ascmistrasbourg.github.io/service/events/</link>
+      <link>https://ascmistrasbourg.github.io/website/service/events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ascmistrasbourg.github.io/service/events/</guid>
+      <guid>https://ascmistrasbourg.github.io/website/service/events/</guid>
       <description>&lt;p&gt;Pic-nics , dîners et afterworks sont organisés par l&amp;rsquo;ASCMI. C&amp;rsquo;est l&amp;rsquo;occasion de passer du bon temps avec des gens sympathiques (sauf le président), de discuter avec les étudiants d&amp;rsquo;autres promotions, et de se détendre après une dure journée de travail (voire d&amp;rsquo;examens !).&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Un serveur Discord à disposition</title>
-      <link>https://ascmistrasbourg.github.io/service/discord/</link>
+      <link>https://ascmistrasbourg.github.io/website/service/discord/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ascmistrasbourg.github.io/service/discord/</guid>
+      <guid>https://ascmistrasbourg.github.io/website/service/discord/</guid>
       <description>&lt;p&gt;La communication est un élément essentiel de la vie d&amp;rsquo;une association. Sur le Discord de l&amp;rsquo;ASCMI, on discute de tout et de rien, on partage les bons plans, mais c&amp;rsquo;est également une plateforme d&amp;rsquo;entraide et de travail regroupant toutes les promotions.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Une formation complète et exigeante</title>
-      <link>https://ascmistrasbourg.github.io/cmi/formation/</link>
+      <link>https://ascmistrasbourg.github.io/website/cmi/formation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ascmistrasbourg.github.io/cmi/formation/</guid>
+      <guid>https://ascmistrasbourg.github.io/website/cmi/formation/</guid>
       <description>Le CMI est une formation exigeante, comportant environ 20% de cours en supplément à ceux de license et de master. L&amp;rsquo;ensemble des UE de CMI sont architecturées autour de &amp;ldquo;blocs&amp;rdquo; de spécialité, l&amp;rsquo;étudiant devant valider chacun de ces blocs pour passer en année supérieure.</description>
     </item>
     
     <item>
       <title>Une ouverture à l&#39;étranger</title>
-      <link>https://ascmistrasbourg.github.io/cmi/etranger/</link>
+      <link>https://ascmistrasbourg.github.io/website/cmi/etranger/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ascmistrasbourg.github.io/cmi/etranger/</guid>
+      <guid>https://ascmistrasbourg.github.io/website/cmi/etranger/</guid>
       <description>Au cours du CMI, une mobilité de 3 mois au minimum est imposée.</description>
     </item>
     
